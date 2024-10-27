@@ -1,6 +1,5 @@
 {
-  "routes": [
-    { "src": "/api/jokes", "dest": "/api/jokes.js" }
+  "rewrites": [
+    { "source": "/api/joke", "destination": "/api/joke.js" }
   ]
 }
-
