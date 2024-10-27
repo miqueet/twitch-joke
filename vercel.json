@@ -3,3 +3,4 @@
     { "source": "/api/joke", "destination": "/api/joke.js" }
   ]
 }
+
